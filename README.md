@@ -1,6 +1,6 @@
 Carlos MARTÍN CORTÉS, Borja GARCÍA PASCUAL, Mauricio ACUNA, Guillermo PALACIOS RODRÍGUEZ, Miguel Ángel LARA GÓMEZ, Rafael Mª NAVARRO CERRILLO
 
-# Capitulo 11: Adquisición y procesado de imágenes sobre plataformas UAS
+# Capitulo 17: Adquisición y procesado de imágenes sobre plataformas UAS
 
 ## Cálculo de Índices de vegetación a partir de imágenes multiespectrales y creación de mapas.
 
