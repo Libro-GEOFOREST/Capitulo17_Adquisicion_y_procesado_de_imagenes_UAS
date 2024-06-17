@@ -999,3 +999,6 @@ for (imagen_multiespectral in imagenes_multiespectrales) {
       ggsave(ruta_guardado, plot = mapa, width = 10, height = 8)
     
     }
+  }
+}
+```
