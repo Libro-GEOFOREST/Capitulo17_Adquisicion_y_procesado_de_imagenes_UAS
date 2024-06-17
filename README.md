@@ -50,7 +50,7 @@ library(ggspatial)
 
 ##### ggplot2
 
-Esta librería es parte del conjunto de herramientas tidyverse y se utiliza para crear gráficos de alta calidad en R. Ofrece una forma consistente y poderosa de crear una amplia variedad de gráficos de manera eficiente. Url de información: (https://ggplot2.tidyverse.org/)[https://ggplot2.tidyverse.org/]
+Esta librería es parte del conjunto de herramientas tidyverse y se utiliza para crear gráficos de alta calidad en R. Ofrece una forma consistente y poderosa de crear una amplia variedad de gráficos de manera eficiente. Url de información: [https://ggplot2.tidyverse.org/]
 
 A continuación se puede observar el **CHEATSHEET**:
 
@@ -58,11 +58,11 @@ A continuación se puede observar el **CHEATSHEET**:
 
 ##### terra
 
-Esta es una librería diseñada para el análisis y manejo de datos raster. Los datos raster son representaciones matriciales de datos espaciales. Url de información: (https://rspatial.org/pkg/)[https://rspatial.org/pkg/]
+Esta es una librería diseñada para el análisis y manejo de datos raster. Los datos raster son representaciones matriciales de datos espaciales. Url de información: [https://rspatial.org/pkg/]
 
 ##### sf
 
-Esta librería facilita el manejo de datos espaciales simples, especialmente datos vectoriales. sf soporta el uso de geometrías (puntos, líneas , polígonos). Url de información: (https://r-spatial.github.io/sf/)[https://r-spatial.github.io/sf/]
+Esta librería facilita el manejo de datos espaciales simples, especialmente datos vectoriales. sf soporta el uso de geometrías (puntos, líneas , polígonos). Url de información: [https://r-spatial.github.io/sf/]
 
 A continuación se puede observar el **CHEATSHEET**:
 
@@ -70,7 +70,7 @@ A continuación se puede observar el **CHEATSHEET**:
 
 ##### ggspatial
 
-Esta librería proporciona funciones adicionales para trabajar con datos geoespaciales en ggplot2, permitiendo agregar elementos como coordenadas, escalas y mapas base a los gráficos creados con ggplot2. Url de información: (https://paleolimbot.github.io/ggspatial/)[ttps://paleolimbot.github.io/ggspatial/]
+Esta librería proporciona funciones adicionales para trabajar con datos geoespaciales en ggplot2, permitiendo agregar elementos como coordenadas, escalas y mapas base a los gráficos creados con ggplot2. Url de información: [ttps://paleolimbot.github.io/ggspatial/]
 
 ### ¿Qué es una imagen multiespectral?
 
@@ -92,7 +92,7 @@ En esta parte del ejemplo, comenzaremos por abrir una imagen multiespectral y vi
 
 Primero, cargaremos la imagen multiespectral desde el archivo que se adjunta. Para poder cargar la imagen debemos de conocer la ruta donde tenemos esta imagen.
 
-Esta misma imagen la podemos conseguir en el Dataset de Pix4Dcloud, se encuentra en el siguiente enlace: (https://cloud.pix4d.com/site/26624/dataset/91715/map?shareToken=41648cb2-a688-47a3-b4a2-21f21431c94b)[https://cloud.pix4d.com/site/26624/dataset/91715/map?shareToken=41648cb2-a688-47a3-b4a2-21f21431c94b]
+Esta misma imagen la podemos conseguir en el Dataset de Pix4Dcloud, se encuentra en el siguiente enlace: [https://cloud.pix4d.com/site/26624/dataset/91715/map?shareToken=41648cb2-a688-47a3-b4a2-21f21431c94b]
 
 ![](./Auxiliares/PIX4D.png)
 
