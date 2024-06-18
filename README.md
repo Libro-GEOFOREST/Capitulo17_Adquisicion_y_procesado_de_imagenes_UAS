@@ -26,7 +26,7 @@ En este ejemplo, utilizaremos ggplot2, terra y sf. A continuación, se muestra c
 
 ##### Instalación de las librerías
 
-Si no tienes estas librerías instaladas en tu entorno de R, puedes instalarlas utilizando el comando **install.packages()**.
+Si no tienes estas librerías instaladas en tu entorno de R, puedes instalarlas utilizando el comando *install.packages()*.
 
 ```r
 #Instalamos librerias
@@ -38,7 +38,7 @@ install.packages('ggspatial')
 
 ##### Carga de las librerías
 
-Una vez instaladas las librerías, podemos cargarlas en nuestro entorno de trabajo usando la función **library()**.
+Una vez instaladas las librerías, podemos cargarlas en nuestro entorno de trabajo usando la función *library()*.
 
 ```r
 # Cargamos librerias
@@ -50,7 +50,7 @@ library(ggspatial)
 
 ##### ggplot2
 
-Esta librería es parte del conjunto de herramientas tidyverse y se utiliza para crear gráficos de alta calidad en R. Ofrece una forma consistente y poderosa de crear una amplia variedad de gráficos de manera eficiente. Url de información: [https://ggplot2.tidyverse.org/]
+Esta librería es parte del conjunto de herramientas tidyverse y se utiliza para crear gráficos de alta calidad en R. Ofrece una forma consistente y poderosa de crear una amplia variedad de gráficos de manera eficiente. Url de información: ([ttps://ggplot2.tidyverse.org/]
 
 A continuación se puede observar el **CHEATSHEET**:
 
@@ -70,7 +70,7 @@ A continuación se puede observar el **CHEATSHEET**:
 
 ##### ggspatial
 
-Esta librería proporciona funciones adicionales para trabajar con datos geoespaciales en ggplot2, permitiendo agregar elementos como coordenadas, escalas y mapas base a los gráficos creados con ggplot2. Url de información: [ttps://paleolimbot.github.io/ggspatial/]
+Esta librería proporciona funciones adicionales para trabajar con datos geoespaciales en ggplot2, permitiendo agregar elementos como coordenadas, escalas y mapas base a los gráficos creados con ggplot2. Url de información: [https://paleolimbot.github.io/ggspatial/]
 
 ### ¿Qué es una imagen multiespectral?
 
