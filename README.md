@@ -1,3 +1,5 @@
+<a href="https://sandbox.zenodo.org/doi/10.5072/zenodo.71355"><img src="https://sandbox.zenodo.org/badge/765599600.svg" alt="DOI"></a>
+
 Carlos MARTÍN CORTÉS, Borja GARCÍA PASCUAL, Mauricio ACUNA, Guillermo PALACIOS RODRÍGUEZ, Miguel Ángel LARA GÓMEZ, Rafael Mª NAVARRO CERRILLO
 
 # Capitulo 17: Adquisición y procesado de imágenes sobre plataformas UAS
